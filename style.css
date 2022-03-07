@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   background: #02006e;
-	font-family: ubuntu;
+	font-family: calibri;
 }
 
 header {
@@ -15,7 +15,7 @@ header {
 
 header img {
   width: 50px;
-  background: white;
+  background: #ffffff;
   border-radius: 5px;
   margin: 0 20px 0 40px;
 }
